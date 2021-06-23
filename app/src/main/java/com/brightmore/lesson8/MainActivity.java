@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Account<String > account = new Account<>();
         //account.setId(12);
-        account.setSum(5544);
-        account.setId("12");
+        //account.setSum(5544);
+        //account.setId("12");
     }
 }
