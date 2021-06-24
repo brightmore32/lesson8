@@ -16,4 +16,6 @@ public class MainActivity extends AppCompatActivity {
         //account.setId("12");
         String string = "My best string.";
     }
+
+    public void print() {}
 }
