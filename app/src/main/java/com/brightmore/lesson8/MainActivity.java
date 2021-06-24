@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //account.setId(12);
         //account.setSum(5544);
         //account.setId("12");
-        String string = "My best string.";
+        String string = "My best string from GitHub.";
     }
 }
