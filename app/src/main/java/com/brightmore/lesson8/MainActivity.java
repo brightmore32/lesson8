@@ -15,4 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //account.setSum(5544);
         //account.setId("12");
     }
+
+    public void print() {}
 }
