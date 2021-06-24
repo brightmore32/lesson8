@@ -10,12 +10,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Account<String > account = new Account<>();
+        Account<String> account = new Account<>();
         //account.setId(12);
         //account.setSum(5544);
         //account.setId("12");
-        String string = "My best string.";
+        String string = "My best string from GitHub.";
     }
 
-    public void print() {}
+    public void print() {
+    }
 }
+
