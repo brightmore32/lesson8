@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import java.sql.SQLTransactionRollbackException;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -18,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void print() {
+        String string = "abracadabra";
     }
 }
 
