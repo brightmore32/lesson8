@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void print() {
-        String string = "abracadabra";
+        String string = "abracadabragggghh";
     }
 }
 
